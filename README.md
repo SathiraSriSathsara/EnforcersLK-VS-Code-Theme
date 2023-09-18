@@ -14,7 +14,7 @@ Features:
 
 ## 📝 Description
 
-The Discord-Styled Dark Theme is a custom dark theme for Visual Studio Code inspired by the sleek and stylish design of Discord, the popular communication platform for gamers and communities. This theme brings the aesthetic of Discord to your code editor, providing a modern and visually appealing coding experience.
+The EnforcersLK Dark Theme is a custom dark theme for Visual Studio Code inspired by the sleek and stylish design of Discord, the popular communication platform for gamers and communities. This theme brings the aesthetic of Discord to your code editor, providing a modern and visually appealing coding experience.
 
 ## 🚀 Installation
 
