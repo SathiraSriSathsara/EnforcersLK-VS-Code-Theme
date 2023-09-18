@@ -1,8 +1,8 @@
 # Enforcers.lk Team VS Code Theme
 
-> 🧑‍🚀 **Screenshots** 
+> 📷 **Screenshots** 
 
-![ss](https://cdn.discordapp.com/attachments/919141060532379648/1152684559817785394/ss_01.png)
+![ss](https://cdn.discordapp.com/attachments/897836638212870214/1153451355999064074/ss_enforcerslk_theme.png)
 
 Features:
 
