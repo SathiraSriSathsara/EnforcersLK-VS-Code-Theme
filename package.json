@@ -1,0 +1,21 @@
+{
+  "name": "EnforcersLK",
+  "displayName": "EnforcersLK-Theme",
+  "description": "A Theme for Enforcers.lk Team",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EnforcersLK-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EnforcersLK-Theme-color-theme.json"
+      }
+    ]
+  }
+}
