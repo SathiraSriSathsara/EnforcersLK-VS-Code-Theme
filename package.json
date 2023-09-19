@@ -7,6 +7,12 @@
   "engines": {
     "vscode": "^1.82.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "discord",
+    "enforcers"
+  ],
   "categories": [
     "Themes"
   ],
