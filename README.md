@@ -1,6 +1,10 @@
 # Enforcers.lk Team VS Code Theme
 
-> 📷 **Screenshots** 
+Get this theme form VS Code Marketplace : https://marketplace.visualstudio.com/items?itemName=EnforcersLK-Dark-Theme.EnforcersLK
+
+Get Code form Github : https://github.com/SathiraSriSathsara/EnforcersLK-VS-Code-Theme
+
+## 📷 Screenshots
 
 ![ss](https://cdn.discordapp.com/attachments/897836638212870214/1153451355999064074/ss_enforcerslk_theme.png)
 
