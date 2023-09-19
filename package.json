@@ -3,6 +3,7 @@
   "displayName": "EnforcersLK-Theme",
   "description": "A Theme for Enforcers.lk Team",
   "version": "0.0.1",
+  "publisher": "EnforcersLK-Dark-Theme",
   "engines": {
     "vscode": "^1.82.0"
   },
